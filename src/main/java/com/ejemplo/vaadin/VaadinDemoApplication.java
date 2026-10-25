@@ -13,6 +13,7 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class VaadinDemoApplication {
     
+    
     private static final Logger log = LoggerFactory.getLogger(VaadinDemoApplication.class);
 
 	public static void main(String[] args) {
