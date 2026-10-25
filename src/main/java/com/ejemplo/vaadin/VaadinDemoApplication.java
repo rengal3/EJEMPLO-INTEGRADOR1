@@ -17,6 +17,7 @@ public class VaadinDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VaadinDemoApplication.class, args);
+                
 	}
 
     @Bean
