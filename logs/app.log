@@ -1,0 +1,5 @@
+2026-10-18T07:52:15.934-05:00  WARN 11304 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10h27m11s220ms295µs500ns).
+2026-10-18T07:52:22.976-05:00  WARN 11304 --- [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 10000, SQLState: 01J01
+2026-10-18T07:52:22.979-05:00  WARN 11304 --- [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper   : Database 'memory:colegiodb' not created, connection made to existing database instead.
+2026-10-18T09:12:23.666-05:00  WARN 11304 --- [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 10000, SQLState: 01J01
+2026-10-18T09:12:23.669-05:00  WARN 11304 --- [http-nio-8080-exec-3] o.h.engine.jdbc.spi.SqlExceptionHelper   : Database 'memory:colegiodb' not created, connection made to existing database instead.

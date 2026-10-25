@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Oct 17 21:08:33 PET 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-01a1-4cc4-8f6c-00000339edf8 
+on database directory memory:C:\UTP\Integrador 1 - software\semana10\Proyecto_Vaadin_Librerias_UTP\colegiodb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e 
+Loaded from file:/C:/Users/TOSHIBA/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\UTP\Integrador 1 - software\semana10\Proyecto_Vaadin_Librerias_UTP
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
