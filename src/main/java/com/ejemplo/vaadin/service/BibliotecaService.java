@@ -43,6 +43,7 @@ public class BibliotecaService {
         
         logger.debug("Estudiante procesado correctamente. Total en curso ahora: {}", curso.getEstudiantes().size());
     }
+    
 
     public ByteArrayInputStream generarExcel(List<Curso> cursos) {
         logger.info("Iniciando generación de reporte Excel con POI");
