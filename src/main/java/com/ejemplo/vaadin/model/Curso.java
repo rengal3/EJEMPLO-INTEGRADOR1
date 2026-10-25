@@ -17,6 +17,7 @@ public class Curso {
     private List<Estudiante> estudiantes = new ArrayList<>();
 
     public Curso() {}
+    
 
     public Curso(String nombre, String descripcion) {
         this.nombre = nombre;
